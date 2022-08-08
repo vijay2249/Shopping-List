@@ -25,6 +25,7 @@
 li{
 	cursor: pointer;
 	text-align: justify;
+	margin-bottom: 5px;
 }
 
 p, input, button{
