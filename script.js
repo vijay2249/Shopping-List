@@ -36,7 +36,7 @@ function createlistElement(){
 	li.innerHTML = li.innerHTML + " ";
 	li.appendChild(btn);
 	ul.appendChild(li);
-	ul.appendChild(document.createElement("br"));
+	//ul.appendChild(document.createElement("br"));
 	input.value = "";
 }
 
